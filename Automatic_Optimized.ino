@@ -1,3 +1,5 @@
+// Smart Traffic Lights by @diaawastaken · github.com/engineerdiaa/Smart-Traffic-Lights-System · MIT
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 

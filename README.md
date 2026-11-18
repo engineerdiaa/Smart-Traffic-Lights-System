@@ -253,6 +253,10 @@ This project can be useful for students learning concepts including:
 
 The readable implementation is intentionally kept alongside the optimized implementation so students can compare maintainable code with a more compact data-driven approach.
 
+## Credit
+
+**Making content with this?** Videos, posts or tutorials: tag [@diaawastaken](https://www.instagram.com/diaawastaken/).
+
 ## License
 
 This project is licensed under the MIT License.
